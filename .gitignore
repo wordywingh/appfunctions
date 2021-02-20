@@ -64,10 +64,3 @@ node_modules/
 
 # dotenv environment variables file
 .env
-
-//
-
-#config file
-functions/util/config.js
-
-//
